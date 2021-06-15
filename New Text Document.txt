@@ -1,0 +1,18 @@
+npm install
+npm run build
+npm run start
+#############################################################
+#############################################################
+#############################################################
+#############################################################
+git init
+git remote add origin https://github.com/otherenergy/pruebas.git
+
+git remote -v
+git add .
+git commit -m "First commit"
+git commit -m "Another commit"
+
+git commit -m "Facebook commntary commit"
+
+git push origin master
